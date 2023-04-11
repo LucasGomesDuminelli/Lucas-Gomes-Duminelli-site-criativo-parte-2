@@ -3,10 +3,14 @@ cabeçalho{
     display: flex;
     flex-direction: row;
 }
+.link{
+    display: flex;
+    flex-direction:row;
+}
 
 .sejavcmesmo{
-    width: 500px;
-    height:500px;
+    width: 300px;
+    height:300px;
 
 }
 
